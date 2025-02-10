@@ -25,6 +25,8 @@ In order to reduce the training time of the model, i've used a reduced version o
 
 The results in my case, were an accuracy of 75% approximately and a training time of 1:30h using Google's Colab TPUs.
 
+The dataset used in this project is the IMDB movies reviews dataset.
+
 ## Installation
 1. Clone the repository:
    ```bash
